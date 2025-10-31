@@ -34,3 +34,6 @@ ENTITY RAM128_32 IS
     q       : OUT STD_LOGIC_VECTOR (31 DOWNTO 0)
   );
 END RAM128_32;
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/123456789/abcdef123456.png" width="850">
+</p>
