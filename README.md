@@ -34,6 +34,7 @@ ENTITY RAM128_32 IS
     q       : OUT STD_LOGIC_VECTOR (31 DOWNTO 0)
   );
 END RAM128_32;
+
 ---
 
 ## 🧠 Simulation Result
