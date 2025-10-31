@@ -35,8 +35,7 @@ ENTITY RAM128_32 IS
   );
 END RAM128_32;
 
----
-
+```
 ## 🧠 Simulation Result
 
 <p align="center">
