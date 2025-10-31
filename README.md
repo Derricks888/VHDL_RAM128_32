@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/header.png" width="850" alt="VHDL RAM128×32 Simulation Project Banner">
+  <img src="https://github.com/Derricks888/VHDL_RAM128_32/blob/main/docs/header.png?raw=true" width="850" alt="VHDL RAM128×32 Simulation Project Banner">
 </p>
 
 ---
