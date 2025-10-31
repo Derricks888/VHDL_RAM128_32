@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Derricks888/VHDL_RAM128_32/blob/main/docs/header.png?raw=true" width="850" alt="VHDL RAM128×32 Simulation Project Banner">
+  <img src="docs/header.png" width="850" alt="VHDL RAM128×32 Simulation Project Banner">
 </p>
+
 
 ---
 
@@ -43,6 +44,7 @@ END RAM128_32;
 </p>
 
 <p align="center"><i>Figure 1. Simulation waveform of the 128×32 Single-Port RAM showing write and read operations.</i></p>
+
 
 ---
 
