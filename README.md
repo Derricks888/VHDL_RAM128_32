@@ -43,3 +43,21 @@ END RAM128_32;
 </p>
 
 <p align="center"><i>Figure 1. Simulation waveform of the 128×32 Single-Port RAM showing write and read operations.</i></p>
+
+---
+
+## 🧑‍💻 Author  
+**Derrick Smith**  
+Lexmark (a Xerox Subsidiary) – Electrical Engineer  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineer-Digital_Hardware-blue?style=for-the-badge&logo=circuitverse">
+  <img src="https://img.shields.io/badge/FPGA-Design-green?style=for-the-badge&logo=intel">
+  <img src="https://img.shields.io/badge/Embedded_Systems-Linux-orange?style=for-the-badge&logo=linux">
+</p>
+
+---
+
+<p align="center">
+  © 2025 Derrick Smith. Released under the MIT License.
+</p>
