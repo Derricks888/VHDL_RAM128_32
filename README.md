@@ -63,3 +63,7 @@ Lexmark (a Xerox Subsidiary) – Electrical Engineer
 <p align="center">
   © 2025 Derrick Smith. Released under the MIT License.
 </p>
+---
+
+## 📄 Lab Report  
+📎 [Download Full Lab Report (PDF)](docs/Lab_Report_VHDL_RAM128_32.pdf)
