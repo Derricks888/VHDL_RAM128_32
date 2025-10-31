@@ -34,6 +34,12 @@ ENTITY RAM128_32 IS
     q       : OUT STD_LOGIC_VECTOR (31 DOWNTO 0)
   );
 END RAM128_32;
+---
+
+## 🧠 Simulation Result
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/abcdef123456.png" width="850">
+  <img src="docs/waveform.png" width="750" alt="Simulation waveform of RAM128×32">
 </p>
+
+<p align="center"><i>Figure 1. Simulation waveform of the 128×32 Single-Port RAM showing write and read operations.</i></p>
